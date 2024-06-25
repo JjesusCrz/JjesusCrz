@@ -1,4 +1,4 @@
--👋 Hi, I’m @JjesusCrz
+-👋 Hi, I’m (Joel Cruz)@JjesusCrz
 - 👀 I’m interested in Web Development and Data Analysis
 - 🌱 I’m currently learning Data Analysis
 -  I’m looking to collaborate on new projects and Ideas To make the world Better.

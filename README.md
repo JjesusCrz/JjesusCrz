@@ -1,5 +1,5 @@
 -👋 Hi, I’m (Joel Cruz)@JjesusCrz
-- 👀 I’m interested in Web Development and Data Analysis
+- 👀 I’m interested in Web Development and Data Analysis/Engineering/Science
 - 🌱 I’m currently learning Data Analysis
 -  I’m looking to collaborate on new projects and Ideas To make the world Better.
 - 📫 How to reach me: LinkedIn

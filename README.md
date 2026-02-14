@@ -98,7 +98,7 @@ Excel & CSV Data Processing
 Portuguese — Native  
 English — Advanced  
 French — Advanced  
-Spanish — Intermediate  
+Spanish — Learning  
 
 ---
 

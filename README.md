@@ -48,7 +48,7 @@ I am continuously developing the technical and analytical skills required to bui
 
 ## Technical Stack
 
-### Languages
+### Languages (Programming)
 Python | SQL | R | JavaScript | Node.js | VBA  
 
 ### Backend & APIs
@@ -90,6 +90,15 @@ Pandas
 NumPy  
 Plotly / Dash / Streamlit  
 Excel & CSV Data Processing  
+
+---
+
+## Languages (Spoken)
+
+Portuguese — Native  
+English — Advanced  
+French — Advanced  
+Spanish — Intermediate  
 
 ---
 

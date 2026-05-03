@@ -49,15 +49,7 @@ I am continuously developing the technical and analytical skills required to bui
 ## Technical Stack
 
 ### Languages (Programming)
-Python | SQL | R | JavaScript | Node.js | VBA  
-
-### Backend & APIs
-Flask  
-FastAPI  
-Django  
-Node.js  
-REST API Design  
-Authentication & Security  
+Python | SQL | R | VBA  
 
 ### Data Engineering
 ETL Pipelines  

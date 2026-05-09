@@ -66,11 +66,10 @@ Linux
 Environment Configuration  
 Containerized Applications  
 
-### AI & Automation
+### AI & Automation (studying)
 AI Agents  
 Basic RAG (LlamaIndex)  
 Hugging Face (Embeddings & Model Integration)  
-Machine Learning (Scikit-Learn)  
 Gradio  
 Tkinter  
 Selenium  

@@ -1,107 +1,69 @@
 # Joel Cruz (@JjesusCrz)
 
-Full Stack Developer (Data-Oriented Backend) | Data Engineering | Quantitative Finance Enthusiast  
-Brazil 🇧🇷  
+Data Engineering | Analytics Engineering | Full Stack Python Development
 
 ---
 
-## Who Am I?
+## About Me
 
-I am currently studying and developing skills in backend systems and data-driven architectures.
+I am currently focused on building scalable data-driven systems and backend applications.
 
-My focus is on learning how to design scalable applications with strong data foundations — 
-combining engineering principles, financial reasoning, and analytical rigor.
+My interests combine:
 
-I am building knowledge at the intersection of:
-
-• Backend Engineering  
-• Data Architecture  
-• Quantitative Analysis  
-• Automation Systems  
-• Intelligent Decision Platforms  
-• Cloud & Scalable Infrastructure  
-• AI-Driven Systems  
-
-I am continuously developing the technical and analytical skills required to build robust, data-oriented systems.
+- Data Engineering
+- Backend Development
+- Analytics Engineering
+- Quantitative Finance
+- Cloud & Automation
+- AI-Driven Systems
 
 ---
 
 ## Current Focus
 
-- Data Engineering (ETL, APIs, scalable pipelines)
-- Backend Development with Flask, FastAPI & Node.js
-- Cloud fundamentals for data systems
-- Containerization with Docker
-- Linux environments for development and deployment
-- AI Agents and intelligent automation
-- Basic RAG systems using LlamaIndex
-- Embeddings and model integration with Hugging Face
+- ETL & Data Pipelines
+- Flask & FastAPI
+- Docker & Linux
+- Cloud Data Platforms
+- AI Agents & Automation
 - RPA with Selenium & Power Automate
-- Workflow automation with n8n
-- Risk Modeling & Financial Indicators
-- Applied Econometrics
-- Machine Learning for Financial Analysis
-- Dashboard Architecture (Dash / Streamlit / Gradio)
-- Desktop interfaces with Tkinter
+- Dashboards with Dash, Streamlit, Fabric & Power BI
+- Financial Analytics
 
 ---
 
-## Technical Stack
+## Tech Stack
 
-### Languages (Programming)
-Python | SQL | R | VBA  
+### Languages
+Python | SQL | R | VBA
 
-### Data Engineering
-ETL Pipelines  
-Data Modeling  
-Database Optimization  
-API Integration  
-BigQuery  
-Power BI  
+### Data & Backend
+PySpark | APIs | ETL/ELT | Data Modeling
 
 ### Cloud & Infrastructure
-Cloud Computing Fundamentals  
-Docker  
-Linux  
-Environment Configuration  
-Containerized Applications  
+Docker | Linux | Cloud Fundamentals
 
-### AI & Automation (studying)
-AI Agents  
-Basic RAG (LlamaIndex)  
-Hugging Face (Embeddings & Model Integration)  
-Gradio  
-Tkinter  
-Selenium  
-Power Automate  
-n8n  
+### AI & Automation
+LlamaIndex | Hugging Face | Selenium | n8n
 
-### Data & Analytics
-Pandas  
-NumPy  
-Plotly / Dash / Streamlit  
-Excel & CSV Data Processing  
+### Analytics
+Pandas | NumPy | Plotly | Dash | Streamlit | Microsoft Fabric | Power BI
 
 ---
 
-## Languages (Spoken)
+## Languages
 
-Portuguese — Native  
-English — Advanced  
-French — Advanced  
-Spanish — Learning  
+Portuguese 🇧🇷 Native  
+English 🇺🇸 B2 — Upper Intermediate  
+French 🇫🇷 B2 — Upper Intermediate
 
 ---
 
-## Long-Term Vision
+## Vision
 
-To operate at a high level where:
+Building scalable systems at the intersection of:
 
-Engineering × Finance × Economics × Data Science converge.
-
-Building scalable backend systems, financial intelligence platforms, 
-risk evaluation frameworks, intelligent automation systems, 
-and high-performance data architectures deployed in the cloud.
+Engineering × Data × Analytics × Finance
 
 ---
 

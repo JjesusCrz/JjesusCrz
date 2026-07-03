@@ -44,7 +44,7 @@ n8n | Power Automate
 
 ## Education
 
-🎓 **Bachelor's in Systems Analysis and Development**
+🎓 **Technologist in Systems Analysis and Development**
 
 🎓 **Bachelor's in Economics** — UNINTER Centro Universitário Internacional *(May 2025 – Jun 2029)*
 

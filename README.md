@@ -68,8 +68,10 @@ The goal is to build real command over scalable pipelines, analytical data model
 
 ## Languages
 
-Portuguese 🇧🇷 Native
+Portuguese 🇧🇷 Native - 
+
 English 🇺🇸 B2 — Upper Intermediate
+
 French 🇫🇷 B2 — Upper Intermediate
 
 ---

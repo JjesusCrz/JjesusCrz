@@ -48,7 +48,7 @@ n8n | Power Automate
 
 🎓 **Bachelor's in Economics** — UNINTER Centro Universitário Internacional *(May 2025 – Jun 2029)*
 
-🚀 **Postgraduate in Data Engineering & Artificial Intelligence** — Anhanguera *(Nov - 2025 - Dez 2026)*
+🚀 **Postgraduate in Data Engineering & Artificial Intelligence** — Anhanguera *(Nov - 2025 - Dec 2026)*
 
 A hands-on, project-based program (20+ applied projects) covering:
 
